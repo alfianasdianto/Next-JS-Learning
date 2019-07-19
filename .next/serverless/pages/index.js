@@ -1871,7 +1871,7 @@ regenerator_default.a.mark(function _callee() {
         buildManifest: build_manifest,
         reactLoadableManifest: react_loadable_manifest,
         canonicalBase: "",
-        buildId: "K6_epf_I5Irx4SXF4AqXh",
+        buildId: "cdWHL9NwL4kQsH1JKIZ-f",
         dynamicBuildId: false,
         assetPrefix: "",
         ampBindInitData: false

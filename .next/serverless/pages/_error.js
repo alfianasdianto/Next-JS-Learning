@@ -2616,7 +2616,7 @@ var private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_4___n
         buildManifest: private_dot_next_build_manifest_json__WEBPACK_IMPORTED_MODULE_3__,
         reactLoadableManifest: private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_4__,
         canonicalBase: "",
-        buildId: "K6_epf_I5Irx4SXF4AqXh",
+        buildId: "cdWHL9NwL4kQsH1JKIZ-f",
         dynamicBuildId: false,
         assetPrefix: "",
         ampBindInitData: false
