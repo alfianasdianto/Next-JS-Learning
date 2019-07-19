@@ -81,4 +81,4 @@ Index.getInitialProps = async function() {
     };
 };
 
-export default Blog
+export default Index
